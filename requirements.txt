@@ -1,0 +1,7 @@
+tensorflow==2.18.0
+streamlit
+numpy
+opencv-python-headless
+scikit-image
+matplotlib
+pillow
